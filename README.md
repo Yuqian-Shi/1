@@ -17,7 +17,9 @@ Your program should work for any size and with any colours.
 # The pattern
 
 Here's a closeup of the pixel-level detail in the shell pattern:
+
 ![](broken-shell-large.png)
+
 In this case, the pattern is 30 pixels in width and 28 pixels in height. The background colour is (92, 112, 100) and the line colour is (199, 201, 179).
 
 
@@ -36,4 +38,5 @@ Enter line colour (r g b): 0 0 0
 ```
 
 output.png
+
 ![](turtle-255-127-g.png)

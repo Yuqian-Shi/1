@@ -38,7 +38,7 @@ def list2tuple(l):
 def drawL(pos, dire):
     for i in range(3):
         try:
-            pos = (pos[0] + dire[0], pos[1] + dire[1])
+            pos = ( pos[0]W+ dire[0], pos[1] + dire[1])
             img.putpixel((pos[0], pos[1]), l_c)
         except:
             pass
